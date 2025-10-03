@@ -10,5 +10,8 @@ We will start with an explicit Euler, then implicit Euler, and finalise with the
 
 Full working out is in the following latex file:
 
+## Contact 
+Minjun Kim (z)
+
 
 
